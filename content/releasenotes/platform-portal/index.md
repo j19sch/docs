@@ -4,6 +4,15 @@ title: "Platform Portal"
 
 ## 2018
 
+### June 25th, 2018
+
+#### Improvements
+* Our new shared header allows you to easily navigate among the Developer Portal, the App Store and the Community services.
+
+#### Fixes
+* The feedback widget now captures the Active form in Mendix 7.14 and later. There's no need to update the widget in your app, as it loads the code from our servers each time it's loaded by the browser.
+
+
 ### June 15th, 2018
 
 #### Improvements
