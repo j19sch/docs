@@ -3,6 +3,16 @@ title: "Developer Portal"
 ---
 ## 2018
 
+### August 17th, 2018
+
+#### Improvements
+* We’ve brought the search functionality from the company buzz to the project buzz. Search for people and for text they’ve posted, and easily clear the query to go back and search for something else.
+* The Feedback Details page now shows the "Open in WebModeler" page for feedback items created via the feedback widget - allowing you to go to the related page in the WebModeler immediately. Note that this only works for apps using Mendix 7.14 or higher. You also might need to clear your browser's cache once to load the new feedback widget.
+* The SAP SSO sign up flow now has a consistent look & feel throughout all screens.
+
+#### Fixes
+* Before, moving stories and tasks through the workflow didn't fully update the Story Details page. The avatar would be stuck on the person who created it, and the status message might not match the status button down below. Now, everything’s in sync! Change a story or a task to done, and your avatar and the status updates in the corner. The same goes for reopening items and starting stories. (#65073)
+
 ### August 13th, 2018
 
 #### Improvements
